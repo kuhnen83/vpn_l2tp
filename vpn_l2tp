@@ -1,0 +1,3 @@
+instalar protocolo vpn l2tp/ipsec em alguns casos serve para ikve2
+
+sudo apt-get install strongswan strongswan-libcharon strongswan-starter strongswan-nm strongswan-charon strongswan-swanctl strongswan-pki libcharon-extra-plugins libcharon-extauth-plugins
